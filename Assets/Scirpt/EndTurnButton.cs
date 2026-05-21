@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class EndTurnButton : MonoBehaviour
 {
     private Button button;
+
     void Start()
     {
         button = GetComponent<Button>();
